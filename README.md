@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://codepen.io/sideedgetech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sideedgetech" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sideedgetech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sideedgetech" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/cvzlcjdxype2k0dnh73vncpfb" target="blank"><img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/571e5943-4616-4654-bf99-10b3c98f8686/d98301o-426f05ca-8fe5-4636-9009-db9dd1fca1f3.png" alt="sideedgetech" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/cvzlcjdxype2k0dnh73vncpfb" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/05/Spotify-Logo-Black-Square-2048x2048.png" alt="sideedgetech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
