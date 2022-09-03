@@ -34,6 +34,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="52" alt="google logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" width="52" alt="digitalocean logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" height="40" width="52" alt="elm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" width="52" alt="embeddedc logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" width="52" alt="erlang logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" width="52" alt="facebook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" width="52" alt="safari logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows8 logo"  />
 </div>
 
 ###
@@ -43,8 +52,7 @@
 ###
 
 <div align="center">
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sideedgetech)](https://github.com/anuraghazra/github-readme-stats)
-            hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false&custom_title=My Status&username=sideedgetech" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false&custom_title=My Status&username=sideedgetech" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&custom_title=Languages I use-&username=sideedgetech" height="150" alt="languages graph"  />
 </div>
 
@@ -53,6 +61,8 @@
 <h2 align="left">My Contributes and Commits-</h2>
 
 ###
+
+<br clear="both">
 
 <img href="https://raw.githubusercontent.com/sideedgetech/sideedgetech/blob/output/snake.svg" alt="Snake animation" />
 
