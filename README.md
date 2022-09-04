@@ -42,5 +42,6 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=sideedgetech&theme=react-white&hide_border=true&area=true)
 
-<img src="https://github-profile-trophy.vercel.app/?username=sideedgetech=juicyfresh&no-bg=true" />
+## Spotify Status🎵
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/cvzlcjdxype2k0dnh73vncpfb)
