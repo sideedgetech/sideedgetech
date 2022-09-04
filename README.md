@@ -45,3 +45,13 @@
 ## Spotify Status🎵
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/cvzlcjdxype2k0dnh73vncpfb)
+
+## Profile View, Stars, and Followers
+
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/sideedgetech?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+
+<img src="https://img.shields.io/github/stars/sideedgetech?label=Stars" alt="stars">
+
+# Profile Counts
+
+<img src="https://profile-counter.glitch.me/{sideedgetecg}/count.svg" alt="side edge :: Visitor's Count" />
