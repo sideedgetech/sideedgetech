@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sideedgetech&label=Vistors&color=00ffee&style=plastic" alt="sideedgetech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sideedgetech" alt="sideedgetech" /></a> </p>
-
 - 🔭 I’m currently working on [My Palace](https://github.com/sideedgetech/Side-Palace)
 
 - 🌱 I’m currently learning **Frameworks and Backline**
