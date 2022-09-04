@@ -40,4 +40,4 @@
 
 ![snake gif](https://github.com/sideedgetech/sideedgetech/blob/output/github-contribution-grid-snake.gif)
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=madushadhanushka&theme=react-light&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=sideedgetech&theme=react-light&hide_border=true&area=true)
