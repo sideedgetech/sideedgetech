@@ -75,7 +75,7 @@
     <tr>
       <td><a href="https://github.com/sideedgetech/Pomodoro"><b>Pomodoro</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/sideedgetech/Pomodoro?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/pomodoro?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sideedgetech/pomodoro?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
