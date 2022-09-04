@@ -55,3 +55,27 @@
 # Profile Counts
 
 <img src="https://profile-counter.glitch.me/{sideedgetecg}/count.svg" alt="side edge :: Visitor's Count" />
+
+## My Website Repo's
+
+
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/sideedgetech/Password-Generator"><b>Password Generator</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sideedgetech/Password-Generator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sideedgetech/Password-Generator?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sideedgetech/Pomodoro"><b>Pomodoro</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sideedgetech/Pomodoro?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/pomodoro?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
