@@ -41,3 +41,6 @@
 ![snake gif](https://github.com/sideedgetech/sideedgetech/blob/output/github-contribution-grid-snake.gif)
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=sideedgetech&theme=react-white&hide_border=true&area=true)
+
+<img src="https://github-profile-trophy.vercel.app/?username=sideedgetech=juicyfresh&no-bg=true" />
+
