@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a Developer, Designer, Programmer and a Learner</h3>
 
-<p align="centre"> <img src="https://raw.githubusercontent.com/sideedgetech/sideedgetech/main/gif.gif" alt=gif /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/sideedgetech/sideedgetech/main/gif.gif" alt=gif /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sideedgetech&label=Vistors&color=00ffee&style=plastic" alt="sideedgetech" /> </p>
 
