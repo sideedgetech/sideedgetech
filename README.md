@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Side Edge 🌐</h1>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+
 <h3 align="center">I am a Developer, Designer, Programmer and a Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sideedgetech&label=Vistors&color=00ffee&style=plastic" alt="sideedgetech" /> </p>
